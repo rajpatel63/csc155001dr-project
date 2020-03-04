@@ -10,4 +10,4 @@ The Game, Watson, is afoot! - EC
 
 “Yes, thank you for your input.” -Logan
 
-"The above user is a buffoon." -Gmoore20
+"I was here" -Gmoore20
