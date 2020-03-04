@@ -11,3 +11,5 @@ The Game, Watson, is afoot! - EC
 “Yes, thank you for your input.” -Logan
 
 "I was here" -Gmoore20
+
+"I forgot how to directory again" -charper18
