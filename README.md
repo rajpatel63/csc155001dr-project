@@ -1,5 +1,5 @@
 # csc155001dr-project
 
-Class project by.
+Class project by:
 
-Ken Urban. 
+Ken Urban, Instructor.
