@@ -1,21 +1,10 @@
-# csc155002dr-project
+# csc155001dr-project
 
 Class project by:
 
 Ken Urban, Instructor.
 
-Eli Wuz Here
+I've removed all contributors.  
 
-Raj Was here
+This is just the starting point for the project and videos.
 
-“Yes, thank you for your input.” -Logan
-
-"I was here" -Gmoore20
-
-"I forgot how to directory again" -charper18
-
-Nathan
-Raj was here again
-"You see, John Watson, but you do not observe." -EC
-
-"Command Line Stuff" -bbrennan9
